@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Immertion GitHub stats](https://github-readme-stats.vercel.app/api?username=Immertion&show_icons=true&theme=radical)
-
-
 ### Contacts
 [![VK](https://img.shields.io/badge/-VK-4169E1?style=for-the-badge&logo=vk)](https://vk.com/matthew_pma) [![Telegram](https://img.shields.io/badge/-telegram-1E90FF?style=for-the-badge&logo=telegram)](http://t.me/Matthew_PMA)
 
